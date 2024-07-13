@@ -1,3 +1,10 @@
+
+## Part 0
+
+The part number 0 of this challenge is make a new diagram that show the events on page
+https://studies.cs.helsinki.fi/exampleapp/notes. In this case, a user need to write a
+new info line and to click on submit button.
+
 ```mermaid
 sequenceDiagram
     participant user
