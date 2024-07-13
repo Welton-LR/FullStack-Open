@@ -1,6 +1,6 @@
 # FullStack-Open
 
-Challenges of the Full Stack Open course developed by the University of Helsinki. This project focuses on the development
+Challenges of the Full Stack Open course developed by the University of Helsinki 🇫🇮. This project focuses on the development
 of modern web applications. During the course, tools such as React, Redux, Node.js, MongoDB, TypeScript and GraphQL will be
 covered.
 
