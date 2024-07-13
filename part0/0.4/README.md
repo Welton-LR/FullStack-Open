@@ -1,7 +1,7 @@
 
-## Part 0
+## Part 0 First Diagram
 
-The part number 0 of this challenge is make a new diagram that show the events on page
+The part number 0.4 of this challenge is make a new diagram that show the events on page
 https://studies.cs.helsinki.fi/exampleapp/notes. In this case, a user need to write a
 new info line and to click on submit button.
 
