@@ -1,5 +1,6 @@
+import Header from "./components/Header"
+
 const App = () => {
-  const course = 'Desenvolvimento de aplicação Half Stack'
   const part1 = 'Fundamentos da biblioteca React'
   const exercises1 = 10
   const part2 = 'Usando props para passar dados'
@@ -9,7 +10,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>{course}</h1>
+      <Header/>
       <p>
         {part1} {exercises1}
       </p>
