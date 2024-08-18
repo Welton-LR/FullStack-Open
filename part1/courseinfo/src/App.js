@@ -14,10 +14,16 @@ const App = () => {
   return (
     <div>
       <Header course = {course}/>
-      <Content part1={part1} exercises1={exercises1}
-      part2 = {part2} exercises2 = {exercises2} part3 = {part3}
-      exercises3 = {exercises3}/>
-      <Total exercises1={10} exercises2={7} exercises3={14}/>
+      <Content 
+        part1 = {part1} exercises1 = {exercises1}
+        part2 = {part2} exercises2 = {exercises2}
+        part3 = {part3} exercises3 = {exercises3}
+      /> 
+      <Total 
+        exercises1={10}
+        exercises2={7}
+        exercises3={14}
+      />
     </div>
   )
 }
